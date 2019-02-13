@@ -20,7 +20,7 @@
         android:gravity="center_horizontal|center_vertical"
         android:text="@string/txtCountText"
         android:textColor="@android:color/holo_blue_light"
-        android:textSize="180sp"
+        android:textSize="120sp"
         app:layout_constraintBottom_toTopOf="@+id/btnCount"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

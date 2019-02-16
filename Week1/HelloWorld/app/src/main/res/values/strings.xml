@@ -3,4 +3,5 @@
     <string name="txtCountText">0</string>
     <string name="btnToastText">TOAST</string>
     <string name="btnCountText">COUNT</string>
+    <string name="btnZeroText">ZERO</string>
 </resources>

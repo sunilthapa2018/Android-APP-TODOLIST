@@ -1,8 +1,8 @@
 # HelloConstraint App Demo
-![Demo](../gif/helloconstraint.gif)
+![Demo](gif/helloconstraint.gif)
 
 # HelloWorld App Demo
-![Demo](../gif/helloworld.gif)
+![Demo](gif/helloworld.gif)
 
 # ScrollingText App Demo
-![Demo](../gif/scrollingText.gif)
+![Demo](gif/scrollingText.gif)

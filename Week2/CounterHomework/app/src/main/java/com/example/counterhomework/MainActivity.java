@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
             if (isVisible) {
                 txtCount.setVisibility(View.VISIBLE);
                 txtCount.setText(savedInstanceState.getString("reply_text"));
+
             }
         }
     }

@@ -1,5 +1,6 @@
 package com.example.helloworld;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -8,6 +9,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    public static final String EXTRA_MESSAGE = "com.example.helloworld.extra.Message";
+
     TextView txtCount;
     Button btnZero;
 
@@ -34,5 +37,14 @@ public class MainActivity extends AppCompatActivity {
     public void putZero(View view) {
         txtCount.setText(""+0);
         btnZero.setBackgroundColor(getResources().getColor(android.R.color.darker_gray));
+
+    }
+
+    public void SayHello(View view) {
+        String msg = txtCount.getText().toString();
+        Intent intent = new Intent(this, Activity2.class);
+        intent.putExtra(EXTRA_MESSAGE, msg);
+        startActivity(intent);
+
     }
 }

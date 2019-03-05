@@ -4,4 +4,6 @@
     <string name="btnToastText">TOAST</string>
     <string name="btnCountText">COUNT</string>
     <string name="btnZeroText">ZERO</string>
+    <string name="btnSayHello">SAY HELLO</string>
+    <string name="textview">Hello!</string>
 </resources>

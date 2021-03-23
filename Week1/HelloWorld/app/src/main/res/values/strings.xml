@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="txtCountText">0</string>
-    <string name="btnToastText">TOAST</string>
-    <string name="btnCountText">COUNT</string>
-    <string name="btnZeroText">ZERO</string>
-    <string name="btnSayHello">SAY HELLO</string>
-    <string name="textview">Hello!</string>
-</resources>

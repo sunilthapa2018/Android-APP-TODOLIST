@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">HelloConstraint</string>
-    <string name="txtCountText">0</string>
-    <string name="btnToastText">TOAST</string>
-    <string name="btnZeroText">ZERO</string>
-    <string name="btnCountText">COUNT</string>
-</resources>

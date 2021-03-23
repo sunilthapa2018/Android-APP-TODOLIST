@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">CounterHomework</string>
-    <string name="txtCountText">0</string>
-    <string name="btnCountText">COUNT</string>
-    <string name="txtMsgText">This is an edit text</string>
-</resources>
